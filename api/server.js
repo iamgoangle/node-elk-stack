@@ -1,3 +1,9 @@
+/**
+ * Simple API
+ * 
+ * @author  Teerapong, Singthong
+ * 
+ */
 const express = require('express');
 const morgan = require('morgan');
 const moment = require('moment');
